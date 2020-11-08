@@ -1,0 +1,9 @@
+Name: Prime Easy;
+Version: 1.1.4;
+Support Core: 16.24.19;
+Parent Addon: prime-forum;
+Custom Manager: prime-forum;
+Description: Легкая резиновая тема для Prime Forum;
+Author: SAZONISCHE;
+Author URI: https://mmcs.pro/;
+Add-on Uri: https://codeseller.ru/products/prime-easy/;
